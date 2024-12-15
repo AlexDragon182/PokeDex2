@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">my_pokedex</string>
+    <string name="title">Pokedex</string>
+    <string name = "pokedex_screen_title">Pokedex</string>
+    <string name="search_text_hint">Search for your pokemon</string>
+    <string name="search_text_button">Search pokemon</string>
+    <string name="no_results_text">No results</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokedex_item_content_description">pokeball</string>
+
+</resources>
